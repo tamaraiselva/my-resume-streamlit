@@ -214,11 +214,11 @@ if st.button("Download Data"):
 [Github link](https://github.com/tamaraiselva/git-demo/tree/main/resume)
 
 
-![image](images/p.png)
+![image](images/S.png)
 
-![image](images/g.png)
+![image](images/t.png)
 
-![image](images/f.png)
+![image](images/r.png)
 
 ## Streamlit with SQL server using SQLite3L
 - To integrate Streamlit with an SQL server using SQLite3 and present it using LiaScript, you'll need to follow these general steps:
